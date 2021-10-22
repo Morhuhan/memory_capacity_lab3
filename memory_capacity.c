@@ -4,7 +4,7 @@
 #define N 1000
 #define C 1024
 
-void function_1 (double a) {
+int function_1 (double a) {
     char A[100];
     double b;
 	int flag = 0;
